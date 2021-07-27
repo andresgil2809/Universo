@@ -1,0 +1,17 @@
+body
+{
+padding: 10px;
+margin: 40px;
+font-size: 24px;
+font-family: Arial, Helvetica, sans-serif;
+background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fgrupocene%2Fvideos%2Fse-voc%25C3%25AA-%25C3%25A9-crian%25C3%25A7a-independente-da-sua-idade-prepare-se-n%25C3%25B3s-vamos-receber-uma-vis%2F356958328749354%2F&psig=AOvVaw0-mcbJZ3JurIXYcYq8K01b&ust=1627500465805000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDXq-79g_ICFQAAAAAdAAAAABAK");
+background-repeat: no-repeat;
+background-size: auto;
+color: rgb(0, 0, 0);
+}
+
+nav {
+    background-color: rgb(12, 24, 131);
+    padding: 0px;
+    color: white;
+}
